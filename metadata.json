@@ -1,0 +1,6 @@
+{
+  "name": "AI Frame – Smart Camera",
+  "description": "Smart camera app with AI composition grids, pose suggestions, real-time photography guidance, and smart filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
